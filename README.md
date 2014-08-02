@@ -1,3 +1,7 @@
+# THIS LIBRARY IS DEPRECATED
+# You should now use 'SendGrid' instead of 'sendgrid'
+# Updated version is [here](https://github.com/sendgrid/sendgrid-objc).
+
 # SendGrid-iOS
 
 This library allows you to quickly and easily send emails through SendGrid using Objective-C.
